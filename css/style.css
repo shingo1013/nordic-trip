@@ -506,7 +506,8 @@ sp
 ------------------------------------*/
 @media screen and (max-width: 700px) {
   .sec-title {
-    font-size: 3.5rem;
+    font-size: 55px;
+    letter-spacing: 0;
   }
   .sec-title::before {
     top: 30px;
